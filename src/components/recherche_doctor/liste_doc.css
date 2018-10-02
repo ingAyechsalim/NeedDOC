@@ -1,0 +1,33 @@
+.list-doctors {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+.doc_image {
+  background-size: cover !important;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.list_doc {
+  margin-top: 10%;
+}
+.doc_container {
+  background-color: #f1fff8;
+}
+.title {
+  color: teal;
+  text-align: center;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #5fadad;
+  color: white;
+  text-align: center;
+
+  margin-top: 3%;
+}

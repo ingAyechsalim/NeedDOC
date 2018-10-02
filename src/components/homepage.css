@@ -1,0 +1,74 @@
+.myheader {
+  width: 40%;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #5fadad;
+  color: white;
+  text-align: center;
+  margin-top: 3%;
+}
+.Navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  widows: 50px;
+  z-index: 10;
+}
+
+.doc-inf {
+  color: teal;
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+  align-items: center;
+  margin-top: 3%;
+  font-size: 130%;
+}
+.join-us {
+  text-align: center;
+  font-size: 105%;
+}
+.login-doc-inf {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 2%;
+}
+.login {
+  border: 2px solid teal;
+  padding: 3%;
+  background-color: #e5faf8;
+  width: 30%;
+  border-radius: 12px;
+  color: #4ba5a5;
+}
+.doc-img {
+  width: 40%;
+}
+.inf-img {
+  width: 24%;
+  margin-bottom: 4%;
+}
+.articles {
+  display: flex;
+  justify-content: space-around;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  color: teal;
+  padding: 2%;
+}
+
+.article:hover {
+  box-shadow: 0 20px 40px 0 teal;
+  text-decoration: none;
+  background: #e5faf8;
+}

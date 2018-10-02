@@ -1,0 +1,10 @@
+.rdv-item {
+  border: 2px solid rgb(1, 90, 90);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 3% 5%;
+  margin: 2%;
+  width: 120%;
+  color: teal;
+}

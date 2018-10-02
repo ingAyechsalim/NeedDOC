@@ -1,0 +1,10 @@
+
+.liste_rndvs 
+{
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+  .sidebar1{
+    height: 100%;
+  }

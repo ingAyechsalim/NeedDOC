@@ -1,0 +1,19 @@
+.liste_rndvs {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2%;
+}
+.sidebar1 {
+  height: 100%;
+}
+.doc-card {
+  margin-top: 15%;
+  margin-bottom: 20%;
+  padding: 1%;
+  border: 2px solid rgb(1, 90, 90);
+}
+.card-list {
+  display: flex;
+  justify-content: space-around;
+  padding: 1% 12%;
+}
